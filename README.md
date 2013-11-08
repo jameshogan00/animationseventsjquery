@@ -1,1 +1,1 @@
-Examples of utilizing javascript and jquery for keyup events, image toggle and animations
+Examples of utilizing javascript and jquery for keyup events, image toggle and animations for websites
